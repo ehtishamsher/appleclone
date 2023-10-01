@@ -1,0 +1,255 @@
+@import url('https://v1.fontapi.ir/css/SFProDisplay');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.logo-pic{
+    width: 25px;
+    height: 25px;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    cursor: pointer;
+    background-color: darkgrey;
+    height: 50px;
+    font-size: small;
+}
+ul{
+    list-style-type: none;
+}
+.search{
+    width: 15px;
+    height: 15px;
+}
+.bag{
+    width: 15px;
+    height: 15px;
+}
+
+
+.shop-para{
+    font-family: SF Pro Display, sans-serif;
+    color: #1d1d1f;
+    width: 790px;
+    height: 65px;
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 280px;
+}
+.arrow{
+    width: 10px;
+    height: 10px;
+    margin-left: 5px;
+}
+
+.shop{
+    text-decoration: none;
+    color: #00bbcc;
+}
+.upper-phone{
+    background-color: black;
+    width: 1377px;
+    height: 100px;
+}
+.upper-iphone{
+    font-size:xx-large;
+    color: white;
+    background-color: black;
+    
+    
+}
+.ih{
+    margin-left: 480px;
+}
+.ihtwo{
+    font-size: 30px;
+    margin-left: 450px;
+}
+.iphone-dark{
+    background-image: url(assets/pics/apple\ dark.png);
+    background-size: cover;
+    width: 1377px;
+    height: 600px;
+}
+.blue-arrow{
+    width: 15px;
+    height: 15px;
+    margin-top: 30px;
+}
+.images{
+    margin-left: 50px;
+}
+.learn{
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 500px;
+}
+.buy{
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+
+
+
+.upper-light{
+    background-color:#F5F5F7;
+    width: 1377px;
+    height: 100px;
+}
+.lower-iphone{
+    font-size:xx-large;
+    color: black;
+    background-color: #F5F5F7;
+    
+    
+}
+.ihl{
+    margin-left: 540px;
+}
+.ihtwol{
+    font-size: 25px;
+    margin-left: 490px;
+}
+.iphone-light{
+    background-image:url(https://www.apple.com/v/home/be/images/heroes/iphone-15/hero_iphone15_announce__uuemlcwczn6u_mediumtall.jpg);
+    background-size: cover;
+    width: 1377px;
+    height: 600px;
+}
+.imagesl{
+    margin-left: 40px;
+}
+.learn{
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 500px;
+}
+.buy{
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+
+
+
+.watchn{
+    background-color:black;
+    width: 1377px;
+    height: 100px;
+}
+.lower-watch{
+    font-size:xx-large;
+    color: white;
+    background-color: black;
+    height: 100px;
+    
+    
+}
+.wh{
+    margin-left: 540px;
+}
+.whtwo{
+    font-size: 25px;
+    margin-left: 490px;
+}
+.whthree{
+    font-weight: 900;
+    font-size: 20px;
+    margin-left: 590px;
+    padding: 10px 0px;
+    color: red;
+}
+.iphone-watch{
+    
+    background-image:url(https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/article/Apple-Watch-S9-hero-230912_Full-Bleed-Image.jpg.large.jpg);
+    background-size: cover;
+    width: 1377px;
+    height: 600px;
+}
+.imagesw{
+    margin-left: 40px;
+}
+.learn{
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 500px;
+}
+.buy{
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 50px;
+}
+.watches{
+    display: flex;
+}
+
+.ultra{
+    width: 50%;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.ultra-watch{
+    width: 25px;
+    height: 25px;
+}
+
+.learn-delete{
+    font-size: 25px;
+    text-decoration: none;
+}
+.buy-delete{
+    font-size: 25px;
+    text-decoration: none;
+    
+}
+
+.blue-arrowdelete{
+    width: 25px;
+    height: 15px;
+    margin-top: 30px;
+}
+
+.ultrabgg{
+    width: 100%;
+}
+.ultra-two{
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.carbon{
+    width: 50%;
+    margin-top: 10px;
+
+    
+}
+
+.carbon-img{
+    width: 100%;
+}
+.carbon-image{
+    margin-left: 170px;
+    margin-top: 20px;
+}
+.carbon-para{
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+}
+.carbon-img{
+    text-align: center;
+}
